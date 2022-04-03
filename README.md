@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapilpatidar2049
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Android Development with REact Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 kapilpatidar2049@gmail.com
 
